@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🌐 Here is my portofolio link <a href="https://www.koufogiannakis.com" target="blank">https://www.koufogiannakis.com</a>
+- 🌐 Here is my portofolio link <a href="https://www.koufogiannakis.com" target="_blank">https://www.koufogiannakis.com</a>
 
 - 📫 How to reach me **koufogiannakiskon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/koufogiannakiskon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koufogiannakiskon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koufogiannakiskon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koufogiannakiskon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
