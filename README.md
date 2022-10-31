@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello there , my name is Konstantinos.</h1>
-<h3 align="center">I am a Front-End Developer.</h3>
+<h3 align="center">I am a Front-End Developer. 👨🏻‍💻</h3>
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 Here is my portofolio link [www.koufogiannakis.com](www.koufogiannakis.com)
+- 🌐 Here is my portofolio link [www.koufogiannakis.com](www.koufogiannakis.com)
 
 - 📫 How to reach me **koufogiannakiskon@gmail.com**
 
