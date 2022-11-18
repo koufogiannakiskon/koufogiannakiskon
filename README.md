@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🌐 Here is my portofolio link <a href="https://www.koufogiannakis.com" target="_blank">https://www.koufogiannakis.com</a>
+- 🌐 Here is my portfolio link <a href="https://www.koufogiannakis.com" target="_blank">https://www.koufogiannakis.com</a>
 
 - 📫 How to reach me **koufogiannakiskon@gmail.com**
 
